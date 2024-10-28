@@ -1,4 +1,0 @@
-include ':app'
-
-include ':opuscodec'
-project(':opuscodec').projectDir = file("..")
